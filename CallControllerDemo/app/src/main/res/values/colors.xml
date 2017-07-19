@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="txt_cor1">#2c2c2c</color>
+    <color name="txt_cor2">#5c5c5c</color>
+    <color name="txt_cor3">#757575</color>
+    <color name="txt_cor4">#b5b5b5</color>
+    <color name="txt_cor5">#dadada</color>
+    <color name="txt_cor6">#f5f2f2</color>
+</resources>
